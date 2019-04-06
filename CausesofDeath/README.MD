@@ -1,4 +1,4 @@
-                                               Causes of Death                                         
+  # Cause of Death
   This project use NCHS - Leading Causes of Death: United States data to do data analyse.<br>
   
    * ## Main Files<br>
