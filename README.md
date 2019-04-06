@@ -1,2 +1,3 @@
-# web-spider
-examples of web spider
+#Python Examples
+Some examples of crawler and data analysis in Python
+
